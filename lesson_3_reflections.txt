@@ -1,8 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    When collaborating with others or when you want someone else to check your code.
-
+    When collaborating or when you'd like someone else to check over your wok.
+    
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
